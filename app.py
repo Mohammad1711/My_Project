@@ -5,7 +5,6 @@ import altair as alt
 
 file_path = './vehicles_us.csv'
 df = pd.read_csv(file_path)
-df.head()
 
 st.header('This is a header with a divider', divider='rainbow')
-st.header('')
+st.header('this is test')
