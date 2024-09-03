@@ -5,7 +5,7 @@ Welcome to the Car Advertisement Data Analysis project! This project is focused 
 
 The project is implemented in Python using Pandas for data manipulation and Plotly Express for creating interactive visualizations.
 
-##Contributing
+## Contributing
 We welcome contributions from the community! Here's how you can get involved:
 
 Report Issues: If you find any bugs or have suggestions, open an issue on GitHub.
