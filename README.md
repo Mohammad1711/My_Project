@@ -6,7 +6,7 @@ Welcome to the Car Advertisement Data Analysis project! This project is focused 
 The project is implemented in Python using Pandas for data manipulation and Plotly Express for creating interactive visualizations.
 
  # Features
--* Exploratory Data Analysis (EDA):
+* Exploratory Data Analysis (EDA):
 * Perform basic exploratory data analysis on the car advertisement dataset.
 * Visualize data distributions using histograms.
 * Explore relationships between different variables with scatter plots.
