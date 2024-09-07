@@ -39,7 +39,6 @@ Exploratory Data Analysis (Notebook):
 Structure: Ensure your notebook has a clear structure with sections for loading data, basic exploration, data cleaning (e.g., handling missing values), and visualization.
 Comments: Add comments throughout your code to explain the reasoning behind your decisions, especially in the data cleaning and transformation steps.
 Visualization: Include a few key visualizations using Plotly Express, and interpret what these visualizations reveal about the data.
-This README format should give potential users and contributors a clear understanding of your project and how to get started with it. It also addresses the critical feedback points regarding project information and usage instructions.
 
 # Link to my App
 https://my-project-1-ymvn.onrender.com
