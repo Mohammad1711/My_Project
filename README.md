@@ -13,7 +13,8 @@ The project is implemented in Python using Pandas for data manipulation and Plot
 --* Web Application:
 * A user-friendly interface built with Streamlit.
 * Interactive visualizations that allow filtering of data based on user preferences.
--- * Getting Started
+  
+--* Getting Started
 * Prerequisites
 * Python 3.x
 * Pip (Python package installer)
